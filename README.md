@@ -1,0 +1,11 @@
+Project Title: Multi-Sensor Data Validation for Precision Agriculture
+
+Objective: To validate a 2,200-sample sensor dataset for agricultural reliability.
+
+Validation Steps: * Confirmed zero missing values and duplicates.
+
+Verified sensor readings against biological limits (e.g., pH 3.5–9.9).
+
+Key Insight: Discovered a 0.74 correlation between Phosphorus and Potassium, identifying a key nutrient dependency for fertilizer planning.
+
+Actionable Recommendation: "Crops like Papaya require strict pH monitoring (6.5–7.0), whereas Mothbeans are suitable for reclaimed acidic or alkaline lands.
